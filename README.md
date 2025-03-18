@@ -1,1 +1,1 @@
-# kSouth-Ostrobothnia-Deep-Seek
+# South-Ostrobothnia-Deep-Seek
