@@ -7,7 +7,7 @@ I'm not sharing the sentence pairs but only standard Finnish that correspond the
 
 # Usage
 
-Easies way to run the code is to copy file:
+Easiest way to run the code is to copy file:
 deep_seek_southob_blog.ipynb
-to Google Colab. Choose GPU based resources to run the code. If using Google Colab, copy vocabulary and standard Finnish translations data from directory data/ to your Google Drive. Get api keys for hugging and wandb monitoring service. You can edit and skip wandb usage if you don't need that. Direcories properly set, the notebook should upload blog and match standard Finnish sentences to the dialect blog. Note that amount of training data is very small. Still the model seems to get some characteristics of South Ostrobothnian dialect.
+to Google Colab and run it there. Choose GPU based resources. If using Google Colab, copy vocabulary and standard Finnish translations data from directory data/ to your Google Drive and set the directories in the beginning of the notebook. Get api keys for hugging and wandb monitoring service. I have placed the keys to Google drive in diretory secrets/, but it may not be the safest approach. You can edit and skip wandb usage if you don't need that. Direcories properly set, the notebook should upload blog and match standard Finnish sentences to the dialect blog. Note that amount of training data is very small. Still the model seems to get some characteristics of South Ostrobothnian dialect.
 
