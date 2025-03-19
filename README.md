@@ -5,7 +5,7 @@ I ran the experiment with Google Colab with a python notebook. Fine tuning data 
 
 I'm not sharing the sentence pairs but only standard Finnish that correspond the blog text. The blog text is indexed by the sentence order so that standard Finnish sentences can be matched. I also share the vocabulary. Shared data is placed at directory data/. Note that the blog is Copyrighted material and I haven't reached copyright holder. Therfore I provide only a download function. Use at your own responsibility.
 
-#Usage
+# Usage
 
 Easies way to run the code is to copy file:
 deep_seek_southob_blog.ipynb
