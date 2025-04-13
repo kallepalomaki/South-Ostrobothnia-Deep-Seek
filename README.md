@@ -11,6 +11,6 @@ Easiest way to run the code is to copy file:
 deep_seek_southob_blog.ipynb
 to Google Colab and run it there. Choose GPU based resources. If using Google Colab, copy vocabulary and standard Finnish translations data from directory data/ to your Google Drive and set the directories in the beginning of the notebook. Get api keys for hugging and wandb monitoring service. I have placed the keys to Google drive in diretory secrets/, but it may not be the safest approach. You can edit and skip wandb usage if you don't need that. Direcories properly set, the notebook should upload blog and match standard Finnish sentences to the dialect blog. Note that amount of training data is very small. Still the model seems to get some characteristics of South Ostrobothnian dialect.
 
-I have added generataion of quantized model with llama.cpp in deep_seek_southob_blog.ipynb so that the model can be copied and run it with a CPU machine. This picture shows the prompt and result with llama.cpp server when the server is run on local host.
+I have added generation of quantized model with llama.cpp in deep_seek_southob_blog.ipynb so that the model can be copied and run it with a CPU only. This picture shows the prompt and result with llama.cpp server when the server is run on localhost with a intel i7 Macbook with 16 Gb of memory. Local model size is 5.3 Gb.
 
 ![kuva](https://github.com/user-attachments/assets/45d3c005-f401-4848-9b4e-06e09415dcef)
