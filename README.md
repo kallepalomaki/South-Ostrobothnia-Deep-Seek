@@ -13,4 +13,5 @@ to Google Colab and run it there. Choose GPU based resources. If using Google Co
 
 ![kuva](https://github.com/user-attachments/assets/168a7010-3738-4f8d-bff1-a3f95e8281ad)
 
+<img src="https://github.com/user-attachments/assets/168a7010-3738-4f8d-bff1-a3f95e8281ad" width="600" />
 
